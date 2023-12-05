@@ -1,0 +1,45 @@
+body{
+  background-color: rgba(209, 232, 80, 0.868);
+}
+.box{
+  
+  width:500px;
+  height:550px;
+  border-style: solid;
+  border-color:rgba(255, 255, 255, 0.767);
+  margin-left:500px;
+  margin-top: 100px;
+  background-color: aliceblue;
+  
+  border-radius: 30px;;
+}
+.name{
+  margin-top: 120px;
+  margin-left:20px;
+
+  height: 300px;
+  width:500px;;
+  
+}
+.desc{
+  margin-left:190px;
+  font-size:9px;
+  color:red; 
+}
+.input1{
+  margin-left:0px;
+}
+.l1{
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left:103px;
+}
+.l2{
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ 
+  margin-left:60px;
+}
+.btn{
+  margin-left:190px;
+}
